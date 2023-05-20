@@ -17,6 +17,3 @@ To run the Space Invaders game, you need to have a Scheme interpreter installed 
 
 # Acknowledgments
 This project was completed as part of the "How to code simple data" course offered by MIT. Special thanks to the course instructors, staff, and the open-source community for their contributions and support.
-
-# License
-This project is licensed under the MIT License. Feel free to modify, distribute, and use the code for educational or personal purposes.
