@@ -1,6 +1,10 @@
 # Space Invaders
 Space Invaders is a classic arcade game implemented in Scheme as part of the "How to code simple data" course. It showcases the principles of functional programming and data abstraction while providing an enjoyable gaming experience.
 
+https://github.com/user-attachments/assets/6970e622-a005-4eca-94c7-f77383a5f100
+
+
+
 # Gameplay
 In Space Invaders, you control a spaceship at the bottom of the screen, and your goal is to shoot down waves of invading alien spaceships before they reach the bottom. The aliens move horizontally and gradually descend as they approach, increasing the difficulty. Your spaceship can move horizontally and shoot missiles to destroy the aliens. The game ends when an alien reaches the bottom or when you successfully eliminate all the aliens.
 
